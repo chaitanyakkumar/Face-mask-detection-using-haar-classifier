@@ -1,1 +1,3 @@
 # Face-mask-detection-using-haar-classifier
+
+In this project we are detecting if a person is wearing a mask or not in real time. You download the dataset from kaggle or anyother website of your wish. We trained a convolutional neural network (inspired for Le-Net-5) to recognize if a person is wearing a mask or not. In order to point out who is not wearing their mask and their face we use Haar frontal face classifier(you can download the xml file I uploaded to use that). It is pretrained to recognize face so we do not need to code it from scratch. Using the Convolutional neural network and the Haar frontal face classifier we detect if a person is wearing a mask or not in real time. 
